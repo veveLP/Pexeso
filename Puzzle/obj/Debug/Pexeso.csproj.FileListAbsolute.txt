@@ -1,0 +1,10 @@
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Pexeso.csprojAssemblyReference.cache
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Pexeso.csproj.GenerateResource.cache
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Pexeso.csproj.CoreCompileInputs.cache
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Puzzle.Form1.resources
+d:\Dokumenty\Visual Studio 2017\Projects\Puzzle\Puzzle\obj\Debug\Pexeso.Form1.resources
