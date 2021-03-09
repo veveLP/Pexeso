@@ -1,2 +1,2 @@
 # Pexeso
-Simple pexeso game in C#
+Pexeso v C#
